@@ -11,3 +11,4 @@ src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo
 - Remove two insignificant movie genres and filter out movies with less than 5 ratings
 - Reduced dataset has 3,649 movies rated by 610 users, and 90274 ratings
 
+## Collaborative Filtering

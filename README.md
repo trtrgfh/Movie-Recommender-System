@@ -25,5 +25,5 @@ In this project, two recommender systems will be implemented: Collaborative Filt
 
 ### Result
 ![Screenshot 2022-12-01 200409](https://user-images.githubusercontent.com/73056232/205191613-686f0d4f-8fd3-4879-91fd-093b4645d522.png)
-![Screenshot 2022-12-01 202903](https://user-images.githubusercontent.com/73056232/205194176-83d6c30a-e792-45fa-9f1a-60054df6692a.png)
+![Screenshot 2022-12-01 203016](https://user-images.githubusercontent.com/73056232/205194354-a03dca4c-1403-4786-8ca9-c5ae222d1eb2.png)
 ![Screenshot 2022-12-01 200443](https://user-images.githubusercontent.com/73056232/205191616-e35d7ecb-bfd8-4276-b654-3859280bab87.png)

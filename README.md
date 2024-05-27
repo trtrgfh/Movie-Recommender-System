@@ -1,4 +1,4 @@
-<img src="https://github.com/trtrgfh/Movie-Recommender-System/assets/73056232/8907f554-2e58-4e81-a959-986762d1fbae" width="450"/>
+<img src="https://github.com/trtrgfh/Movie-Recommender-System/assets/73056232/8907f554-2e58-4e81-a959-986762d1fbae" width="600"/>
 
 # Movie Recommender System
 

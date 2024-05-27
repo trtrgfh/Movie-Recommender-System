@@ -10,7 +10,7 @@ In this project, two recommender systems will be implemented: Collaborative Filt
 ## Python Packages Used
 - **Data Manipulation:** numpy, pandas, collections, csv
 - **Data Visualization:** matplotlib
-- **Machine Learning:** tensorflow, tensorflow.keras, scikit-learn
+- **Machine Learning:** tensorflow, scikit-learn
 
 # Data
 Datasets used for collaborative filtering can be found in the data folder. \

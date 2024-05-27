@@ -13,7 +13,7 @@ In this project, two recommender systems will be implemented: Collaborative Filt
 - **Machine Learning:** tensorflow, tensorflow.keras, scikit-learn
 
 # Data
-Datasets used for collaborative filtering can be found in the data folder.
+Datasets used for collaborative filtering can be found in the data folder. \
 Datasets used for content filtering can be downloaded at https://grouplens.org/datasets/movielens/latest/.
   - 9,742 movies rated by 610 users, and 100,836 ratings
   - Dataset after pre-processing: 3,649 movies rated by 610 users, and 90274 ratings

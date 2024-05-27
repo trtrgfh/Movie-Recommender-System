@@ -30,5 +30,3 @@ Datasets used for content filtering can be downloaded at https://grouplens.org/d
 ![Screenshot 2022-12-01 203016](https://user-images.githubusercontent.com/73056232/205194354-a03dca4c-1403-4786-8ca9-c5ae222d1eb2.png)
 ![Screenshot 2022-12-01 200443](https://user-images.githubusercontent.com/73056232/205191616-e35d7ecb-bfd8-4276-b654-3859280bab87.png)
 
-# License
-For this github repository, the License used is [MIT License](https://opensource.org/license/mit/).
